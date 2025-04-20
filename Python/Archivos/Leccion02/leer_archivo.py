@@ -11,4 +11,19 @@ archivo = open('prueba.txt','r',encoding='utf8') # 'r' read modo para leer
 #print(archivo.read(8)) #nos muestra las 8 primeras letras de la palabra
 #print(archivo.read(7)) #continua despues de las 8 que ya leó
 
-print(archivo.readline()) #lee la primera linea
+#print(archivo.readline()) #lee la primera linea
+
+#vamos a iterar el archivo, cada una de las lineas
+#for linea in archivo:
+   # print(linea) # Itera todas las lineas
+#print(archivo.readlines()) itera las lineas como una lista
+#print(archivo.readlines()[1]) #accede al segundo elemento de la lista
+
+#Anexamos informacion, copiamos a otro
+archivo2 = open('copia.txt','a', encoding='utf8')
+archivo2.write(archivo.read())
+archivo.close()
+archivo2.close()
+
+print('Se ha terminado el proceso de leer y copiar archivos.')
+#el proceso de copiar la información se va a realizarse siempre que ejecutemos el programa a menos que cambiemos la "a" por "w"

@@ -6,6 +6,7 @@ try:
     archivo.write('Programamos con diferentes tipos de archivos, ahora en txt.\n')
     archivo.write('Los acentos son importantes para las palabras\n')
     archivo.write('Como por ejemplo: acción, ejecución y programación\n')
+    archivo.write('Saludos a todos los alumnos de la tecnicatura\n')
     archivo.write('Con esto terminamos')
     #escribe dentro del archivo
 except Exception as e:
