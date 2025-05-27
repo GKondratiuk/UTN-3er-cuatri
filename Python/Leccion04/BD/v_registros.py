@@ -19,7 +19,7 @@ try:
             for registro in registros:
                 print(registro) #mostramos los registros en forma de tupla
 except Exception as e:
-    print(e)(f'Ocurrió un error: {e}')
+    print(f'Ocurrió un error: {e}')
 finally:
     conexion.close()
 
