@@ -18,3 +18,82 @@
 08:14:17PM :WARNING:[logger_base.py:14] Mensaje a nivel warning
 08:14:17PM :ERROR:[logger_base.py:15] Mensaje a nivel error
 08:14:17PM :CRITICAL:[logger_base.py:16] Mensaje a nivel critical
+05:36:05PM :DEBUG:[Persona.py:51] 
+            Id Persona: 88, 
+            Nombre: Willy, 
+            Apellido: Box, 
+            Email: wbox@mail.com
+
+05:38:14PM :DEBUG:[Persona.py:51] 
+            Id Persona: 88, 
+            Nombre: Willy, 
+            Apellido: Box, 
+            Email: wbox@mail.com
+
+05:54:05PM :DEBUG:[Persona.py:51] 
+            Id Persona: 88, 
+            Nombre: Willy, 
+            Apellido: Box, 
+            Email: wbox@mail.com
+
+05:54:05PM :DEBUG:[Persona.py:53] 
+            Id Persona: Carlitos, 
+            Nombre: Slash, 
+            Apellido: cslash@mail.com, 
+            Email: None
+
+05:56:17PM :DEBUG:[Persona.py:52] 
+            Id Persona: 88, 
+            Nombre: Willy, 
+            Apellido: Box, 
+            Email: wbox@mail.com
+
+05:57:26PM :DEBUG:[Persona.py:52] 
+            Id Persona: 88, 
+            Nombre: Willy, 
+            Apellido: Box, 
+            Email: wbox@mail.com
+
+05:57:26PM :DEBUG:[Persona.py:55] 
+            Id Persona: None, 
+            Nombre: Carlitos, 
+            Apellido: Slash, 
+            Email: cslash@mail.com
+
+05:59:58PM :DEBUG:[Persona.py:52] 
+            Id Persona: 88, 
+            Nombre: Willy, 
+            Apellido: Box, 
+            Email: wbox@mail.com
+
+05:59:58PM :DEBUG:[Persona.py:55] 
+            Id Persona: None, 
+            Nombre: Carlitos, 
+            Apellido: Slash, 
+            Email: cslash@mail.com
+
+06:00:11PM :DEBUG:[Persona.py:52] 
+            Id Persona: 88, 
+            Nombre: Willy, 
+            Apellido: Box, 
+            Email: wbox@mail.com
+
+06:00:11PM :DEBUG:[Persona.py:55] 
+            Id Persona: None, 
+            Nombre: Carlitos, 
+            Apellido: Slash, 
+            Email: cslash@mail.com
+
+06:00:11PM :DEBUG:[Persona.py:57] 
+            Id Persona: 1, 
+            Nombre: None, 
+            Apellido: None, 
+            Email: None
+
+11:03:20PM :DEBUG:[conexion.py:24] Conexion exitosa: <connection object at 0x759ea72dd300; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+11:10:49PM :DEBUG:[conexion.py:24] Conexion exitosa: <connection object at 0x74b7cade1300; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+11:10:49PM :ERROR:[conexion.py:42] Ocurrió un Error de conexion: 'NoneType' object has no attribute 'cursor'
+11:15:14PM :DEBUG:[conexion.py:24] Conexion exitosa: <connection object at 0x79917bedd300; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+11:15:14PM :DEBUG:[conexion.py:38] Conexion exitosa: <cursor object at 0x79917be51c60; closed: 0>
+11:16:10PM :DEBUG:[conexion.py:24] Conexion exitosa: <connection object at 0x75475c9e5300; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+11:16:10PM :DEBUG:[conexion.py:38] Conexion exitosa, se abrió correctamente el cursor: <cursor object at 0x75475c959c60; closed: 0>
