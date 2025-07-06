@@ -1,4 +1,4 @@
-import psycopg2 as bd
+from psycopg2 import pool
 
 from Leccion04.BD.transacciones import conexion
 from logger_base import log
@@ -8,42 +8,47 @@ class Conexion:
     _USERNAME = 'guille'
     _PASSWORD = '0088'
     _HOST = 'localhost'
-    _PORT = '5432'
-    _conexion = None
-    _cursor = None
+    _DB_PORT = '5432'
+    _MIN_CON = 1 #El minimo de conexiones va a ser 1
+    _MAX_CON = 5 #el max 5
+    _pool = None # pool de conexiones
 
     @classmethod
     def obtenerConexion(cls):
-        if cls._conexion is None: # si no existe conexion
-            try: #intentar conectar
-                cls._conexion = bd.connect(host=cls._HOST,
-                                           user=cls._USERNAME,
-                                           password=cls._PASSWORD,
-                                           port=cls._PORT,
-                                           database=cls._DATABASE)
-                log.debug(f'Conexion exitosa: {cls._conexion}')
-                return cls._conexion # retornar conexion
+        conexion = cls.obtenerPool().getconn()
+        log.debug(f'Conexion obtenido del pool: {conexion}')
+        return conexion
 
-            except Exception as e: #si no se conecta...
-                log.error(f'Error conexion: {e}')
-                sys.exit()
-        else:
-            return cls._conexion
 
     @classmethod
     def obtenerCursor(cls):
-        if cls._cursor is None:
-            try:
-                cls._cursor = cls.obtenerConexion().cursor()
-                log.debug(f'Conexion exitosa, se abrió correctamente el cursor: {cls._cursor}')
-                return cls._cursor
+        conexion = cls.obtenerPool().getconn()
+        log.debug(f'Conexion obtenido del pool: {conexion}')
+        return conexion
 
+    @classmethod
+    def obtenerPool(cls):
+        if cls._pool is None:
+            try:
+                cls._pool = pool.SimpleConnectionPool(cls._MIN_CON,
+                                                      cls._MAX_CON,
+                                                      host=cls._HOST,
+                                                      user=cls._USERNAME,
+                                                      password=cls._PASSWORD,
+                                                      port=cls._DB_PORT,
+                                                      database=cls._DATABASE)#creamos conexion
+                log.debug(f'creacion del pool exitosa: {cls._pool}')
+                return cls._pool
             except Exception as e:
-                log.error(f'Ocurrió un Error de conexion: {e}')
+                log.error(f'Ocurrió un error al obtener el pool: {e}')
                 sys.exit()
         else:
-            return cls._cursor
+            return cls._pool
+
 
 if __name__ == '__main__':
-    Conexion.obtenerConexion()
-    Conexion.obtenerCursor()
+   conexion1 = Conexion.obtenerConexion()
+   conecion2 = Conexion.obtenerConexion()
+   conexion3 = Conexion.obtenerConexion()
+   conexion4 = Conexion.obtenerConexion()
+   conexion5 = Conexion.obtenerConexion()

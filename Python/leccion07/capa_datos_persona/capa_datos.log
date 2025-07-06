@@ -97,3 +97,369 @@
 11:15:14PM :DEBUG:[conexion.py:38] Conexion exitosa: <cursor object at 0x79917be51c60; closed: 0>
 11:16:10PM :DEBUG:[conexion.py:24] Conexion exitosa: <connection object at 0x75475c9e5300; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
 11:16:10PM :DEBUG:[conexion.py:38] Conexion exitosa, se abrió correctamente el cursor: <cursor object at 0x75475c959c60; closed: 0>
+01:30:41PM :DEBUG:[conexion.py:24] Conexion exitosa: <connection object at 0x7f45fb4e5300; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+01:30:41PM :DEBUG:[conexion.py:38] Conexion exitosa, se abrió correctamente el cursor: <cursor object at 0x7f45fb45dc60; closed: 0>
+01:30:51PM :DEBUG:[conexion.py:24] Conexion exitosa: <connection object at 0x74f379ce5940; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+01:30:51PM :DEBUG:[conexion.py:38] Conexion exitosa, se abrió correctamente el cursor: <cursor object at 0x74f379c5f4c0; closed: 0>
+01:31:50PM :DEBUG:[conexion.py:24] Conexion exitosa: <connection object at 0x74ecd63e9940; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+01:31:50PM :DEBUG:[conexion.py:38] Conexion exitosa, se abrió correctamente el cursor: <cursor object at 0x74ecd63634c0; closed: 0>
+01:31:50PM :DEBUG:[persona_dao.py:34] 
+            Id Persona: 29, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+01:33:23PM :DEBUG:[conexion.py:24] Conexion exitosa: <connection object at 0x76060ade9940; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+01:33:23PM :DEBUG:[conexion.py:38] Conexion exitosa, se abrió correctamente el cursor: <cursor object at 0x76060ad634c0; closed: 0>
+01:33:46PM :DEBUG:[conexion.py:24] Conexion exitosa: <connection object at 0x754f46be9940; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+01:33:46PM :DEBUG:[conexion.py:38] Conexion exitosa, se abrió correctamente el cursor: <cursor object at 0x754f46b634c0; closed: 0>
+01:33:46PM :DEBUG:[persona_dao.py:34] 
+            Id Persona: 31, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+01:35:16PM :DEBUG:[conexion.py:24] Conexion exitosa: <connection object at 0x711d210e5940; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+01:35:16PM :DEBUG:[conexion.py:38] Conexion exitosa, se abrió correctamente el cursor: <cursor object at 0x711d2105f4c0; closed: 0>
+01:35:16PM :DEBUG:[persona_dao.py:34] 
+            Id Persona: 8, 
+            Nombre: Marcos, 
+            Apellido: Canto, 
+            Email: mcanto@mail.com
+
+01:35:16PM :DEBUG:[persona_dao.py:34] 
+            Id Persona: 9, 
+            Nombre: Marcelo, 
+            Apellido: Cuenca, 
+            Email: cuencaM@mail.com
+
+01:35:16PM :DEBUG:[persona_dao.py:34] 
+            Id Persona: 12, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+01:35:16PM :DEBUG:[persona_dao.py:34] 
+            Id Persona: 15, 
+            Nombre: Juan Carlos, 
+            Apellido: Roldan, 
+            Email: jcroldan@mail.com
+
+01:35:16PM :DEBUG:[persona_dao.py:34] 
+            Id Persona: 16, 
+            Nombre: Carlos, 
+            Apellido: Lara, 
+            Email: clara@mail.com
+
+01:35:16PM :DEBUG:[persona_dao.py:34] 
+            Id Persona: 17, 
+            Nombre: Carlos, 
+            Apellido: Lara, 
+            Email: clara@mail.com
+
+01:35:16PM :DEBUG:[persona_dao.py:34] 
+            Id Persona: 18, 
+            Nombre: Jorge, 
+            Apellido: Prol, 
+            Email: jprol@mail.com
+
+01:35:16PM :DEBUG:[persona_dao.py:34] 
+            Id Persona: 19, 
+            Nombre: Alex, 
+            Apellido: Rojas, 
+            Email: arojas@mail.com
+
+01:35:16PM :DEBUG:[persona_dao.py:34] 
+            Id Persona: 20, 
+            Nombre: Alex, 
+            Apellido: Rojas, 
+            Email: arojas@mail.com
+
+01:35:16PM :DEBUG:[persona_dao.py:34] 
+            Id Persona: 21, 
+            Nombre: Alex, 
+            Apellido: Rojas, 
+            Email: arojas@mail.com
+
+01:35:16PM :DEBUG:[persona_dao.py:34] 
+            Id Persona: 22, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+01:35:16PM :DEBUG:[persona_dao.py:34] 
+            Id Persona: 23, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+01:35:16PM :DEBUG:[persona_dao.py:34] 
+            Id Persona: 24, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+01:35:16PM :DEBUG:[persona_dao.py:34] 
+            Id Persona: 25, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+01:35:16PM :DEBUG:[persona_dao.py:34] 
+            Id Persona: 26, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+01:35:16PM :DEBUG:[persona_dao.py:34] 
+            Id Persona: 27, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+01:35:16PM :DEBUG:[persona_dao.py:34] 
+            Id Persona: 28, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+01:35:16PM :DEBUG:[persona_dao.py:34] 
+            Id Persona: 29, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+01:35:16PM :DEBUG:[persona_dao.py:34] 
+            Id Persona: 30, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+01:35:16PM :DEBUG:[persona_dao.py:34] 
+            Id Persona: 31, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+01:35:16PM :DEBUG:[persona_dao.py:34] 
+            Id Persona: 32, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+01:44:01PM :DEBUG:[conexion.py:24] Conexion exitosa: <connection object at 0x7b36cb5ed940; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+01:44:01PM :DEBUG:[conexion.py:38] Conexion exitosa, se abrió correctamente el cursor: <cursor object at 0x7b36cb5673d0; closed: 0>
+01:44:01PM :DEBUG:[persona_dao.py:38] Persona Inertada: 
+            Id Persona: None, 
+            Nombre: Pedro, 
+            Apellido: Romero, 
+            Email: promero@mail.com
+
+01:44:01PM :DEBUG:[persona_dao.py:45] personas insertadas: 1
+01:49:31PM :DEBUG:[conexion.py:24] Conexion exitosa: <connection object at 0x751d24ae5940; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+01:49:31PM :DEBUG:[conexion.py:38] Conexion exitosa, se abrió correctamente el cursor: <cursor object at 0x751d24a5f3d0; closed: 0>
+01:49:31PM :DEBUG:[persona_dao.py:38] Persona Inertada: 
+            Id Persona: None, 
+            Nombre: Homero, 
+            Apellido: Ramos, 
+            Email: hramos@mail.com
+
+01:49:31PM :DEBUG:[persona_dao.py:45] personas insertadas: 1
+01:55:48PM :DEBUG:[conexion.py:24] Conexion exitosa: <connection object at 0x75ca292e5940; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+01:55:48PM :DEBUG:[conexion.py:38] Conexion exitosa, se abrió correctamente el cursor: <cursor object at 0x75ca2925f3d0; closed: 0>
+02:10:27PM :DEBUG:[conexion.py:24] Conexion exitosa: <connection object at 0x7008e00e5940; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+02:10:27PM :DEBUG:[conexion.py:38] Conexion exitosa, se abrió correctamente el cursor: <cursor object at 0x7008e005f3d0; closed: 0>
+02:10:27PM :DEBUG:[persona_dao.py:56] Persona Eliminada: 
+            Id Persona: 8, 
+            Nombre: None, 
+            Apellido: None, 
+            Email: None
+
+02:10:27PM :DEBUG:[persona_dao.py:64] Personas Eliminadas: 1
+02:18:22PM :DEBUG:[conexion.py:24] Conexion exitosa: <connection object at 0x7a5889ae5940; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+02:18:22PM :DEBUG:[conexion.py:38] Conexion exitosa, se abrió correctamente el cursor: <cursor object at 0x7a5889a5f3d0; closed: 0>
+02:18:22PM :DEBUG:[persona_dao.py:79] 
+            Id Persona: 9, 
+            Nombre: Marcelo, 
+            Apellido: Cuenca, 
+            Email: cuencaM@mail.com
+
+02:18:22PM :DEBUG:[persona_dao.py:79] 
+            Id Persona: 12, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+02:18:22PM :DEBUG:[persona_dao.py:79] 
+            Id Persona: 15, 
+            Nombre: Juan Carlos, 
+            Apellido: Roldan, 
+            Email: jcroldan@mail.com
+
+02:18:22PM :DEBUG:[persona_dao.py:79] 
+            Id Persona: 16, 
+            Nombre: Carlos, 
+            Apellido: Lara, 
+            Email: clara@mail.com
+
+02:18:22PM :DEBUG:[persona_dao.py:79] 
+            Id Persona: 17, 
+            Nombre: Carlos, 
+            Apellido: Lara, 
+            Email: clara@mail.com
+
+02:18:22PM :DEBUG:[persona_dao.py:79] 
+            Id Persona: 18, 
+            Nombre: Jorge, 
+            Apellido: Prol, 
+            Email: jprol@mail.com
+
+02:18:22PM :DEBUG:[persona_dao.py:79] 
+            Id Persona: 19, 
+            Nombre: Alex, 
+            Apellido: Rojas, 
+            Email: arojas@mail.com
+
+02:18:22PM :DEBUG:[persona_dao.py:79] 
+            Id Persona: 20, 
+            Nombre: Alex, 
+            Apellido: Rojas, 
+            Email: arojas@mail.com
+
+02:18:22PM :DEBUG:[persona_dao.py:79] 
+            Id Persona: 21, 
+            Nombre: Alex, 
+            Apellido: Rojas, 
+            Email: arojas@mail.com
+
+02:18:22PM :DEBUG:[persona_dao.py:79] 
+            Id Persona: 22, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+02:18:22PM :DEBUG:[persona_dao.py:79] 
+            Id Persona: 23, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+02:18:22PM :DEBUG:[persona_dao.py:79] 
+            Id Persona: 24, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+02:18:22PM :DEBUG:[persona_dao.py:79] 
+            Id Persona: 25, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+02:18:22PM :DEBUG:[persona_dao.py:79] 
+            Id Persona: 26, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+02:18:22PM :DEBUG:[persona_dao.py:79] 
+            Id Persona: 27, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+02:18:22PM :DEBUG:[persona_dao.py:79] 
+            Id Persona: 28, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+02:18:22PM :DEBUG:[persona_dao.py:79] 
+            Id Persona: 29, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+02:18:22PM :DEBUG:[persona_dao.py:79] 
+            Id Persona: 30, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+02:18:22PM :DEBUG:[persona_dao.py:79] 
+            Id Persona: 31, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+02:18:22PM :DEBUG:[persona_dao.py:79] 
+            Id Persona: 32, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+02:18:22PM :DEBUG:[persona_dao.py:79] 
+            Id Persona: 33, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+02:18:22PM :DEBUG:[persona_dao.py:79] 
+            Id Persona: 34, 
+            Nombre: Pedro, 
+            Apellido: Romero, 
+            Email: promero@mail.com
+
+02:18:22PM :DEBUG:[persona_dao.py:79] 
+            Id Persona: 35, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+02:18:22PM :DEBUG:[persona_dao.py:79] 
+            Id Persona: 36, 
+            Nombre: Homero, 
+            Apellido: Ramos, 
+            Email: hramos@mail.com
+
+02:18:22PM :DEBUG:[persona_dao.py:79] 
+            Id Persona: 37, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+02:18:22PM :DEBUG:[persona_dao.py:79] 
+            Id Persona: 38, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+02:18:22PM :DEBUG:[persona_dao.py:79] 
+            Id Persona: 39, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+08:17:59PM :DEBUG:[conexion.py:38] creacion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7f11143a2810>
+08:18:54PM :DEBUG:[conexion.py:38] creacion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7c48cf0365a0>
+08:18:54PM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x7c48ce9e9440; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+08:18:54PM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x7c48ce9e9800; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+08:19:40PM :DEBUG:[conexion.py:38] creacion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x71234039a330>
+08:19:40PM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x7123404e5440; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+08:19:40PM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x7123404e5800; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+08:19:40PM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x7123404e5940; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+08:19:59PM :DEBUG:[conexion.py:38] creacion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7a6e23d9aab0>
+08:19:59PM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x7a6e23ee5440; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+08:19:59PM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x7a6e23ee5800; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+08:19:59PM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x7a6e23ee5940; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+08:19:59PM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x7a6e23ee5e40; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+08:19:59PM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x7a6e23ee5f80; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+04:39:27PM :DEBUG:[conexion.py:40] creacion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x76a50979e390>
+04:39:27PM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x76a5098e5580; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+04:39:28PM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x76a5098e5940; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+04:42:01PM :DEBUG:[conexion.py:40] creacion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x70d7a0e365a0>
+04:42:01PM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x70d7a07e9580; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+04:42:01PM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x70d7a07e9940; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+04:42:01PM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x70d7a07e9a80; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+04:42:01PM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x70d7a07e9f80; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+04:42:01PM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x70d7a07ea0c0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
