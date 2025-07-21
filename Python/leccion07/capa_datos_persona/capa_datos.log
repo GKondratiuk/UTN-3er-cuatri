@@ -463,3 +463,814 @@
 04:42:01PM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x70d7a07e9a80; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
 04:42:01PM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x70d7a07e9f80; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
 04:42:01PM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x70d7a07ea0c0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+09:51:01AM :DEBUG:[conexion.py:40] creacion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7e476e09aba0>
+09:51:01AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x7e476e1e96c0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+09:51:01AM :DEBUG:[conexion.py:51] Regresamos la conexion del pool: <class '__main__.Conexion'>
+09:52:52AM :DEBUG:[conexion.py:40] creacion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7b1cc2e9b2f0>
+09:52:52AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x7b1cc2fe96c0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+09:52:52AM :DEBUG:[conexion.py:51] Regresamos la conexion del pool: <class '__main__.Conexion'>
+09:52:52AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x7b1cc2fe96c0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+09:53:14AM :DEBUG:[conexion.py:40] creacion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x73ab75a9ae70>
+09:53:14AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x73ab75be96c0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+09:53:14AM :DEBUG:[conexion.py:51] Regresamos la conexion del pool: <class '__main__.Conexion'>
+09:53:14AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x73ab75be96c0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+09:53:14AM :DEBUG:[conexion.py:51] Regresamos la conexion del pool: <class '__main__.Conexion'>
+09:53:14AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x73ab75be96c0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+09:53:14AM :DEBUG:[conexion.py:51] Regresamos la conexion del pool: <class '__main__.Conexion'>
+09:53:14AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x73ab75be96c0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+09:53:14AM :DEBUG:[conexion.py:51] Regresamos la conexion del pool: <class '__main__.Conexion'>
+09:53:14AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x73ab75be96c0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+09:53:14AM :DEBUG:[conexion.py:51] Regresamos la conexion del pool: <class '__main__.Conexion'>
+09:56:00AM :DEBUG:[conexion.py:40] creacion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7ba1b8670740>
+09:56:00AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x7ba1b87e96c0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+09:56:00AM :DEBUG:[conexion.py:51] Regresamos la conexion del pool: <class '__main__.Conexion'>
+09:56:00AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x7ba1b87e96c0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+09:56:00AM :DEBUG:[conexion.py:51] Regresamos la conexion del pool: <class '__main__.Conexion'>
+09:56:00AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x7ba1b87e96c0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+09:56:00AM :DEBUG:[conexion.py:51] Regresamos la conexion del pool: <class '__main__.Conexion'>
+09:56:00AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x7ba1b87e96c0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+09:56:00AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x7ba1b87e9a80; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+09:56:00AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x7ba1b87e9bc0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+09:56:10AM :DEBUG:[conexion.py:40] creacion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x73bc2909afc0>
+09:56:10AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x73bc291e96c0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+09:56:10AM :DEBUG:[conexion.py:51] Regresamos la conexion del pool: <class '__main__.Conexion'>
+09:56:10AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x73bc291e96c0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+09:56:10AM :DEBUG:[conexion.py:51] Regresamos la conexion del pool: <class '__main__.Conexion'>
+09:56:10AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x73bc291e96c0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+09:56:10AM :DEBUG:[conexion.py:51] Regresamos la conexion del pool: <class '__main__.Conexion'>
+09:56:10AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x73bc291e96c0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+09:56:10AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x73bc291e9a80; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+09:56:10AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x73bc291e9bc0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+09:56:10AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x73bc291ea0c0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+09:56:28AM :DEBUG:[conexion.py:40] creacion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x724b27557c80>
+09:56:28AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x724b276e56c0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+09:56:28AM :DEBUG:[conexion.py:51] Regresamos la conexion del pool: <class '__main__.Conexion'>
+09:56:28AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x724b276e56c0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+09:56:28AM :DEBUG:[conexion.py:51] Regresamos la conexion del pool: <class '__main__.Conexion'>
+09:56:28AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x724b276e56c0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+09:56:28AM :DEBUG:[conexion.py:51] Regresamos la conexion del pool: <class '__main__.Conexion'>
+09:56:28AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x724b276e56c0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+09:56:28AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x724b276e5a80; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+09:56:28AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x724b276e5bc0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+09:56:28AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x724b276e60c0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+09:56:28AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x724b276e6200; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+09:58:29AM :DEBUG:[conexion.py:40] creacion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7d97fba9ade0>
+09:58:29AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x7d97fbbe9580; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+09:58:44AM :DEBUG:[conexion.py:40] creacion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7b647ec9ade0>
+09:58:44AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x7b647ede96c0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+09:58:44AM :DEBUG:[conexion.py:51] Regresamos la conexion del pool: <connection object at 0x7b647ede96c0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+09:58:44AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x7b647ede96c0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+09:58:44AM :DEBUG:[conexion.py:51] Regresamos la conexion del pool: <connection object at 0x7b647ede96c0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+09:58:44AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x7b647ede96c0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+09:58:44AM :DEBUG:[conexion.py:51] Regresamos la conexion del pool: <connection object at 0x7b647ede96c0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+09:58:44AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x7b647ede96c0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+09:58:44AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x7b647ede9a80; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+09:58:44AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x7b647ede9bc0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+11:04:08AM :DEBUG:[conexion.py:40] creacion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7891e9197200>
+11:04:08AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x7891e92e56c0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+11:04:08AM :DEBUG:[conexion.py:51] Regresamos la conexion del pool: <connection object at 0x7891e92e56c0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+11:04:08AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x7891e92e56c0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+11:04:08AM :DEBUG:[conexion.py:51] Regresamos la conexion del pool: <connection object at 0x7891e92e56c0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+11:04:08AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x7891e92e56c0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+11:04:08AM :DEBUG:[conexion.py:51] Regresamos la conexion del pool: <connection object at 0x7891e92e56c0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+11:04:08AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x7891e92e56c0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+11:04:08AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x7891e92e5a80; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+11:04:08AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x7891e92e5bc0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+11:07:07AM :DEBUG:[conexion.py:40] creacion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x768d5bf96c90>
+11:07:07AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x768d5c0e56c0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+11:07:07AM :DEBUG:[conexion.py:51] Regresamos la conexion del pool: <connection object at 0x768d5c0e56c0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+11:07:07AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x768d5c0e56c0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+11:07:07AM :DEBUG:[conexion.py:51] Regresamos la conexion del pool: <connection object at 0x768d5c0e56c0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+11:07:07AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x768d5c0e56c0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+11:07:07AM :DEBUG:[conexion.py:51] Regresamos la conexion del pool: <connection object at 0x768d5c0e56c0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+11:07:07AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x768d5c0e56c0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+11:07:07AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x768d5c0e5a80; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+11:07:07AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x768d5c0e5bc0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+11:07:36AM :DEBUG:[conexion.py:40] creacion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x79960ff76ed0>
+11:07:36AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x7996100e56c0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+11:07:36AM :DEBUG:[conexion.py:51] Regresamos la conexion del pool: <connection object at 0x7996100e56c0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+11:07:36AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x7996100e56c0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+11:07:36AM :DEBUG:[conexion.py:51] Regresamos la conexion del pool: <connection object at 0x7996100e56c0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+11:07:36AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x7996100e56c0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+11:07:36AM :DEBUG:[conexion.py:51] Regresamos la conexion del pool: <connection object at 0x7996100e56c0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+11:07:36AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x7996100e56c0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+11:07:36AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x7996100e5a80; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+11:07:36AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x7996100e5bc0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+11:07:56AM :DEBUG:[cursor_del_pool.py:10] Inicio del método with y __enter__
+11:07:56AM :DEBUG:[conexion.py:40] creacion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x76f1ed4cb530>
+11:07:56AM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x76f1ed4e56c0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+11:07:56AM :DEBUG:[cursor_del_pool.py:28] Dentro del bloque with
+11:07:56AM :DEBUG:[cursor_del_pool.py:30] [(9, 'Marcelo', 'Cuenca', 'cuencaM@mail.com'), (12, 'Maria', 'Esparza', 'mesparza@mail.com'), (16, 'Carlos', 'Lara', 'clara@mail.com'), (17, 'Carlos', 'Lara', 'clara@mail.com'), (18, 'Jorge', 'Prol', 'jprol@mail.com'), (19, 'Alex', 'Rojas', 'arojas@mail.com'), (20, 'Alex', 'Rojas', 'arojas@mail.com'), (21, 'Alex', 'Rojas', 'arojas@mail.com'), (15, 'Juan Carlos', 'Roldan', 'jcroldan@mail.com'), (22, 'Maria', 'Esparza', 'mesparza@mail.com'), (23, 'Maria', 'Esparza', 'mesparza@mail.com'), (24, 'Maria', 'Esparza', 'mesparza@mail.com'), (25, 'Maria', 'Esparza', 'mesparza@mail.com'), (26, 'Maria', 'Esparza', 'mesparza@mail.com'), (27, 'Maria', 'Esparza', 'mesparza@mail.com'), (28, 'Maria', 'Esparza', 'mesparza@mail.com'), (29, 'Maria', 'Esparza', 'mesparza@mail.com'), (30, 'Maria', 'Esparza', 'mesparza@mail.com'), (31, 'Maria', 'Esparza', 'mesparza@mail.com'), (32, 'Maria', 'Esparza', 'mesparza@mail.com'), (33, 'Maria', 'Esparza', 'mesparza@mail.com'), (34, 'Pedro', 'Romero', 'promero@mail.com'), (35, 'Maria', 'Esparza', 'mesparza@mail.com'), (36, 'Homero', 'Ramos', 'hramos@mail.com'), (37, 'Maria', 'Esparza', 'mesparza@mail.com'), (38, 'Maria', 'Esparza', 'mesparza@mail.com'), (39, 'Maria', 'Esparza', 'mesparza@mail.com'), (40, 'Maria', 'Esparza', 'mesparza@mail.com'), (41, 'Maria', 'Esparza', 'mesparza@mail.com'), (42, 'Maria', 'Esparza', 'mesparza@mail.com'), (43, 'Maria', 'Esparza', 'mesparza@mail.com'), (44, 'Maria', 'Esparza', 'mesparza@mail.com'), (45, 'Maria', 'Esparza', 'mesparza@mail.com'), (46, 'Maria', 'Esparza', 'mesparza@mail.com'), (47, 'Maria', 'Esparza', 'mesparza@mail.com'), (48, 'Maria', 'Esparza', 'mesparza@mail.com'), (49, 'Maria', 'Esparza', 'mesparza@mail.com'), (50, 'Maria', 'Esparza', 'mesparza@mail.com'), (51, 'Maria', 'Esparza', 'mesparza@mail.com'), (52, 'Maria', 'Esparza', 'mesparza@mail.com'), (53, 'Maria', 'Esparza', 'mesparza@mail.com'), (54, 'Maria', 'Esparza', 'mesparza@mail.com'), (55, 'Maria', 'Esparza', 'mesparza@mail.com'), (56, 'Maria', 'Esparza', 'mesparza@mail.com'), (57, 'Maria', 'Esparza', 'mesparza@mail.com')]
+11:07:56AM :DEBUG:[cursor_del_pool.py:16] Se ejecuta el método exit
+11:07:56AM :DEBUG:[cursor_del_pool.py:22] Commit de la transaccion
+11:07:56AM :DEBUG:[conexion.py:51] Regresamos la conexion del pool: <connection object at 0x76f1ed4e56c0; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+10:21:02PM :DEBUG:[cursor_del_pool.py:10] Inicio del método with y __enter__
+10:21:02PM :DEBUG:[conexion.py:40] creacion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7ab0b4d39580>
+10:21:02PM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x7ab0b3be9580; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+10:21:02PM :DEBUG:[cursor_del_pool.py:28] Dentro del bloque with
+10:21:02PM :DEBUG:[cursor_del_pool.py:30] [(9, 'Marcelo', 'Cuenca', 'cuencaM@mail.com'), (12, 'Maria', 'Esparza', 'mesparza@mail.com'), (16, 'Carlos', 'Lara', 'clara@mail.com'), (17, 'Carlos', 'Lara', 'clara@mail.com'), (18, 'Jorge', 'Prol', 'jprol@mail.com'), (19, 'Alex', 'Rojas', 'arojas@mail.com'), (20, 'Alex', 'Rojas', 'arojas@mail.com'), (21, 'Alex', 'Rojas', 'arojas@mail.com'), (15, 'Juan Carlos', 'Roldan', 'jcroldan@mail.com'), (22, 'Maria', 'Esparza', 'mesparza@mail.com'), (23, 'Maria', 'Esparza', 'mesparza@mail.com'), (24, 'Maria', 'Esparza', 'mesparza@mail.com'), (25, 'Maria', 'Esparza', 'mesparza@mail.com'), (26, 'Maria', 'Esparza', 'mesparza@mail.com'), (27, 'Maria', 'Esparza', 'mesparza@mail.com'), (28, 'Maria', 'Esparza', 'mesparza@mail.com'), (29, 'Maria', 'Esparza', 'mesparza@mail.com'), (30, 'Maria', 'Esparza', 'mesparza@mail.com'), (31, 'Maria', 'Esparza', 'mesparza@mail.com'), (32, 'Maria', 'Esparza', 'mesparza@mail.com'), (33, 'Maria', 'Esparza', 'mesparza@mail.com'), (34, 'Pedro', 'Romero', 'promero@mail.com'), (35, 'Maria', 'Esparza', 'mesparza@mail.com'), (36, 'Homero', 'Ramos', 'hramos@mail.com'), (37, 'Maria', 'Esparza', 'mesparza@mail.com'), (38, 'Maria', 'Esparza', 'mesparza@mail.com'), (39, 'Maria', 'Esparza', 'mesparza@mail.com'), (40, 'Maria', 'Esparza', 'mesparza@mail.com'), (41, 'Maria', 'Esparza', 'mesparza@mail.com'), (42, 'Maria', 'Esparza', 'mesparza@mail.com'), (43, 'Maria', 'Esparza', 'mesparza@mail.com'), (44, 'Maria', 'Esparza', 'mesparza@mail.com'), (45, 'Maria', 'Esparza', 'mesparza@mail.com'), (46, 'Maria', 'Esparza', 'mesparza@mail.com'), (47, 'Maria', 'Esparza', 'mesparza@mail.com'), (48, 'Maria', 'Esparza', 'mesparza@mail.com'), (49, 'Maria', 'Esparza', 'mesparza@mail.com'), (50, 'Maria', 'Esparza', 'mesparza@mail.com'), (51, 'Maria', 'Esparza', 'mesparza@mail.com'), (52, 'Maria', 'Esparza', 'mesparza@mail.com'), (53, 'Maria', 'Esparza', 'mesparza@mail.com'), (54, 'Maria', 'Esparza', 'mesparza@mail.com'), (55, 'Maria', 'Esparza', 'mesparza@mail.com'), (56, 'Maria', 'Esparza', 'mesparza@mail.com'), (57, 'Maria', 'Esparza', 'mesparza@mail.com'), (58, 'Maria', 'Esparza', 'mesparza@mail.com'), (59, 'Maria', 'Esparza', 'mesparza@mail.com'), (60, 'Maria', 'Esparza', 'mesparza@mail.com'), (61, 'Maria', 'Esparza', 'mesparza@mail.com'), (62, 'Maria', 'Esparza', 'mesparza@mail.com'), (63, 'Maria', 'Esparza', 'mesparza@mail.com'), (64, 'Maria', 'Esparza', 'mesparza@mail.com')]
+10:21:02PM :DEBUG:[cursor_del_pool.py:16] Se ejecuta el método exit
+10:21:02PM :DEBUG:[cursor_del_pool.py:22] Commit de la transaccion
+10:21:02PM :DEBUG:[conexion.py:51] Regresamos la conexion del pool: <connection object at 0x7ab0b3be9580; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+10:23:29PM :DEBUG:[cursor_del_pool.py:10] Inicio del método with y __enter__
+10:23:29PM :DEBUG:[conexion.py:40] creacion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7444349cf470>
+10:23:29PM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x7444349e9f80; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+10:23:29PM :DEBUG:[cursor_del_pool.py:16] Se ejecuta el método exit
+10:23:29PM :DEBUG:[cursor_del_pool.py:22] Commit de la transaccion
+10:23:29PM :DEBUG:[conexion.py:51] Regresamos la conexion del pool: <connection object at 0x7444349e9f80; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+10:23:29PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 9, 
+            Nombre: Marcelo, 
+            Apellido: Cuenca, 
+            Email: cuencaM@mail.com
+
+10:23:29PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 12, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:23:29PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 15, 
+            Nombre: Juan Carlos, 
+            Apellido: Roldan, 
+            Email: jcroldan@mail.com
+
+10:23:29PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 16, 
+            Nombre: Carlos, 
+            Apellido: Lara, 
+            Email: clara@mail.com
+
+10:23:29PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 17, 
+            Nombre: Carlos, 
+            Apellido: Lara, 
+            Email: clara@mail.com
+
+10:23:29PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 18, 
+            Nombre: Jorge, 
+            Apellido: Prol, 
+            Email: jprol@mail.com
+
+10:23:29PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 19, 
+            Nombre: Alex, 
+            Apellido: Rojas, 
+            Email: arojas@mail.com
+
+10:23:29PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 20, 
+            Nombre: Alex, 
+            Apellido: Rojas, 
+            Email: arojas@mail.com
+
+10:23:29PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 21, 
+            Nombre: Alex, 
+            Apellido: Rojas, 
+            Email: arojas@mail.com
+
+10:23:29PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 22, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:23:29PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 23, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:23:29PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 24, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:23:29PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 25, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:23:29PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 26, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:23:29PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 27, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:23:29PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 28, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:23:29PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 29, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:23:29PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 30, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:23:29PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 31, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:23:29PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 32, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:23:29PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 33, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:23:29PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 34, 
+            Nombre: Pedro, 
+            Apellido: Romero, 
+            Email: promero@mail.com
+
+10:23:29PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 35, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:23:29PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 36, 
+            Nombre: Homero, 
+            Apellido: Ramos, 
+            Email: hramos@mail.com
+
+10:23:29PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 37, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:23:29PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 38, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:23:29PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 39, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:23:29PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 40, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:23:29PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 41, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:23:29PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 42, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:23:29PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 43, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:23:29PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 44, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:23:29PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 45, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:23:29PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 46, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:23:29PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 47, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:23:29PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 48, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:23:29PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 49, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:23:29PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 50, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:23:29PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 51, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:23:29PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 52, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:23:29PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 53, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:23:29PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 54, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:23:29PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 55, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:23:29PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 56, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:23:29PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 57, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:23:29PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 58, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:23:29PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 59, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:23:29PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 60, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:23:29PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 61, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:23:29PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 62, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:23:29PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 63, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:23:29PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 64, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:23:29PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 65, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:23:29PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 66, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:30:22PM :DEBUG:[cursor_del_pool.py:10] Inicio del método with y __enter__
+10:30:22PM :DEBUG:[conexion.py:40] creacion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7511e7249340>
+10:30:22PM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x7511e73e9f80; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+10:30:22PM :DEBUG:[persona_dao.py:37] Persona Inertada: 
+            Id Persona: None, 
+            Nombre: Marco, 
+            Apellido: Aurelio, 
+            Email: maurelio@mail.com
+
+10:30:22PM :DEBUG:[cursor_del_pool.py:16] Se ejecuta el método exit
+10:30:22PM :DEBUG:[cursor_del_pool.py:22] Commit de la transaccion
+10:30:22PM :DEBUG:[conexion.py:51] Regresamos la conexion del pool: <connection object at 0x7511e73e9f80; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+10:30:22PM :DEBUG:[persona_dao.py:71] personas insertadas: 1
+10:30:22PM :DEBUG:[cursor_del_pool.py:10] Inicio del método with y __enter__
+10:30:22PM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x7511e73e9f80; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+10:30:22PM :DEBUG:[cursor_del_pool.py:16] Se ejecuta el método exit
+10:30:22PM :DEBUG:[cursor_del_pool.py:22] Commit de la transaccion
+10:30:22PM :DEBUG:[conexion.py:51] Regresamos la conexion del pool: <connection object at 0x7511e73e9f80; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 9, 
+            Nombre: Marcelo, 
+            Apellido: Cuenca, 
+            Email: cuencaM@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 12, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 15, 
+            Nombre: Juan Carlos, 
+            Apellido: Roldan, 
+            Email: jcroldan@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 16, 
+            Nombre: Carlos, 
+            Apellido: Lara, 
+            Email: clara@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 17, 
+            Nombre: Carlos, 
+            Apellido: Lara, 
+            Email: clara@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 18, 
+            Nombre: Jorge, 
+            Apellido: Prol, 
+            Email: jprol@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 19, 
+            Nombre: Alex, 
+            Apellido: Rojas, 
+            Email: arojas@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 20, 
+            Nombre: Alex, 
+            Apellido: Rojas, 
+            Email: arojas@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 21, 
+            Nombre: Alex, 
+            Apellido: Rojas, 
+            Email: arojas@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 22, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 23, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 24, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 25, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 26, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 27, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 28, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 29, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 30, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 31, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 32, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 33, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 34, 
+            Nombre: Pedro, 
+            Apellido: Romero, 
+            Email: promero@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 35, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 36, 
+            Nombre: Homero, 
+            Apellido: Ramos, 
+            Email: hramos@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 37, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 38, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 39, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 40, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 41, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 42, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 43, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 44, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 45, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 46, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 47, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 48, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 49, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 50, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 51, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 52, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 53, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 54, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 55, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 56, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 57, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 58, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 59, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 60, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 61, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 62, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 63, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 64, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 65, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 66, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 67, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+
+10:30:22PM :DEBUG:[persona_dao.py:76] 
+            Id Persona: 68, 
+            Nombre: Marco, 
+            Apellido: Aurelio, 
+            Email: maurelio@mail.com
+
+11:04:15PM :DEBUG:[cursor_del_pool.py:10] Inicio del método with y __enter__
+11:04:15PM :DEBUG:[conexion.py:40] creacion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x73b9e8729580>
+11:04:15PM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x73b9e88e5f80; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+11:04:15PM :DEBUG:[persona_dao.py:53] Persona Eliminada: 
+            Id Persona: 67, 
+            Nombre: None, 
+            Apellido: None, 
+            Email: None
+
+11:04:15PM :DEBUG:[cursor_del_pool.py:16] Se ejecuta el método exit
+11:04:15PM :DEBUG:[cursor_del_pool.py:22] Commit de la transaccion
+11:04:15PM :DEBUG:[conexion.py:51] Regresamos la conexion del pool: <connection object at 0x73b9e88e5f80; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+11:04:15PM :DEBUG:[persona_dao.py:61] Personas Eliminadas: 1
+11:04:15PM :DEBUG:[cursor_del_pool.py:10] Inicio del método with y __enter__
+11:04:15PM :DEBUG:[conexion.py:19] Conexion obtenido del pool: <connection object at 0x73b9e88e5f80; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
+11:04:15PM :DEBUG:[cursor_del_pool.py:16] Se ejecuta el método exit
+11:04:15PM :DEBUG:[cursor_del_pool.py:19] Ocurrió una excepcion: tuple index out of range
+11:04:15PM :DEBUG:[conexion.py:51] Regresamos la conexion del pool: <connection object at 0x73b9e88e5f80; dsn: 'user=guille password=xxx dbname=test_bd host=localhost port=5432', closed: 0>
